@@ -10,7 +10,7 @@ It has a function for minting and burning tokens
 
 ### Installing
 
-To use the Ethereum-My-token, you can simply copy the code from eth_Code file and deploy it to a compatible development environment such as Remix
+To use the Ethereum-My-token, you can simply copy the code from eth_code file and deploy it to a compatible development environment such as Remix
 
 ### Executing program
 
