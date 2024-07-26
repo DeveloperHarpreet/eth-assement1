@@ -27,7 +27,7 @@ For any questions or issues regarding the Ethereum-My-token project, feel free t
 
 Contributors names and contact info
 
-Harpreety Singh
+Harpreet Singh
 
 ## License
 
